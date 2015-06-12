@@ -1,0 +1,41 @@
+commit fa74e4543c49fbcd8be4022108eb4c49138b84ce
+Author: Mister Software <lcmojica@gmail.com>
+Date:   Fri Jun 12 03:07:08 2015 -0500
+
+    Ultimas modificaciones - Version 1.
+
+commit c7a2188d6646d02ad547ffc3fcf3d52d0eb2d5b8
+Author: Mister Software <lcmojica@gmail.com>
+Date:   Fri Jun 12 02:35:38 2015 -0500
+
+    Portafolio Actualizado - Enlaces sobrantes eliminados.
+
+commit b14e77035098ace5ace37a725189d9202a7ed867
+Author: Mister Software <lcmojica@gmail.com>
+Date:   Fri Jun 12 02:31:22 2015 -0500
+
+    Texto Actualizado - Slogan.
+
+commit fa916adf2af131c8153e79c5ae28843d5c4a998b
+Author: Mister Software <lcmojica@gmail.com>
+Date:   Fri Jun 12 02:26:36 2015 -0500
+
+    Redes Sociales Actualizadas - twitter y github.
+
+commit d0990873e3aacbff17a1358c14534211b001ddda
+Author: Mister Software <lcmojica@gmail.com>
+Date:   Fri Jun 12 02:22:28 2015 -0500
+
+    Perfil Laboral Actualizado
+
+commit 7123b76674039ea58973cb952a0fc824ddebd872
+Author: Mister Software <lcmojica@gmail.com>
+Date:   Fri Jun 12 02:19:40 2015 -0500
+
+    Perfil Actualizado - Foto y nombre.
+
+commit bb564e17509bc36fec3728051b0a61083af818f9
+Author: Mister Software <lcmojica@gmail.com>
+Date:   Fri Jun 12 02:11:26 2015 -0500
+
+    Estos son los archivos de mi portafolio para este proyecto.
